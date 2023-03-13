@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a Bank in Central America.
+- 🌱 I’m currently learning about data, software and business intelligence.
+- 🤔 I’m looking for help with python, R and SAS.
+
 
 <!--
 **Eldriddaniel989/Eldriddaniel989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
